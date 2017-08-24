@@ -78,5 +78,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: ssh://git@github.com/zhangpan5/zhangpan5.github.io
+  repository: https://github.com/zhangpan5/zhangpan5.github.io
   branch: master
